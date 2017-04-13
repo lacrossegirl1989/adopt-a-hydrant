@@ -13,6 +13,7 @@ gem 'pg'
 gem 'rails_12factor'
 gem 'rails_admin'
 gem 'validates_formatting_of'
+gem 'rollbar'
 
 platforms :ruby_18 do
   gem 'fastercsv'
