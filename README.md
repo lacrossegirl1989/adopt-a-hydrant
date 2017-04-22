@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/laxfriends/adopt-a-hydrant.png?label=ready&title=Ready)](https://waffle.io/laxfriends/adopt-a-hydrant)
 # Adopt-a-Hydrant
 
 [![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
